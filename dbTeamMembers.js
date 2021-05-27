@@ -26,6 +26,4 @@ let teamMembers = [
   },
 ];
 
-
-
 module.exports = teamMembers;
